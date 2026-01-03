@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Untitled1" />
+              <option name="title_text" value="الگو" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="true">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -74,6 +74,8 @@
             </options>
           </option>
           <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1284,25 +1286,16 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6H9LXoRAN6M" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6WqcQFQkiCl" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6H9LXoRAN6M.6SpWb54EM22" displaytext="Untitled Slide" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5j5wJEiCwMI" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5j5wJEiCwMI.6YttwwNdcOY" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.5mIMixm7pLG" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.5xq17cuotFq" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.6BtjwrvlAx8" displaytext="Pick One" expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.5q4iIGEMX9x" displaytext="عدد بعدی الگو را انتخاب کن و بنداز توی جای خالی&#xA;  2– 4 – 8-         " expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.5xy91plIK8B" displaytext="عدد بعدی الگو را بنویس&#xA;&#xA; 1 – 4 – 9-        " expand="false" type="slide" />
-            <slidelink slideid="_player.5j5wJEiCwMI.5l1CW0ameqX" displaytext="Drag and Drop" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6NLev1tLqFN" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6NLev1tLqFN.6n10RHgjsWa" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.659nWVOknWf" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6ptBg1dcyLW" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6E9lbu6GQd3" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6kQ3m92ttlm" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6otViLpUWOG" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.5c4zzVbsTc1" displaytext="عدد بعدی الگو را انتخاب کن و بنداز توی جای خالی&#xA;  2– 4 – 8-         " expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6acmRFEW5ps" displaytext="عدد بعدی الگو را بنویس&#xA;&#xA; 1 – 4 – 9-        " expand="false" type="slide" />
+            <slidelink slideid="_player.6WqcQFQkiCl.6oRUMmnBLaI" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
